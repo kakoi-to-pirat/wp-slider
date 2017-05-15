@@ -13,7 +13,7 @@ WP-SLIDER
    - position       (позиция слайдера - тип поля "number")
    - link           (href ссылки на страницу внутри проекта - тип поля "page")
    - external_link  (href ссылки, на внешнюю страницу - тип поля "text")
-   - target         (target ссылки. допустимые значениями: " _blanc" и " _self" - тип поля "radio")
+   - target         (target ссылки. допустимые значениями: " _blank" и " _self" - тип поля "radio")
    
 Открываем файл /wp-content/themes/'имя_темы'/fucntions.php
 
